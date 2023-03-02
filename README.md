@@ -3,4 +3,4 @@
 > This source is a source to easily register wake on len service as a service in Ubuntu.
 
 # How to use
-> wakeonlen <Mac address>
+> wakeonlen ```<Mac address>```
